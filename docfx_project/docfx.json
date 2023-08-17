@@ -49,8 +49,15 @@
       "default",
       "modern"
     ],
-    "postProcessors": [],
+    "postProcessors": ["ExtractSearchIndex"],
     "keepFileLink": false,
-    "disableGitFeatures": false
+    "disableGitFeatures": false,
+    "cleanupCacheHistory": true,    
+    "globalMetadata": {
+      "_appFooter": "<span>Copyright © Matthias König<br>Generated with <strong>DocFX</strong></span>",
+      "_appTitle": "docfx Test Seite",
+      "_appName": "DocFXdocfx Test Seite",
+      "_enableSearch": "true"
+    }
   }
 }
