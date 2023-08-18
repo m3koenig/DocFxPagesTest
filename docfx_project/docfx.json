@@ -46,7 +46,7 @@
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "statictoc"
+      "template", "statictoc"
     ],
     "postProcessors": ["ExtractSearchIndex"],
     "keepFileLink": false,
