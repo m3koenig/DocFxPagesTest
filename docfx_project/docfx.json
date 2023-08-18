@@ -47,7 +47,6 @@
     "fileMetadataFiles": [],
     "template": [
       "default",
-      "modern",
       "statictoc"
     ],
     "postProcessors": ["ExtractSearchIndex"],
