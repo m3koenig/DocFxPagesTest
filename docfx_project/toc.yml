@@ -1,5 +1,5 @@
 - name: Beiträge
-  href: articles
+  href: articles/intro.md
 - name: Api Documentation
   href: api/
   homepage: api/index.md
