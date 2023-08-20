@@ -46,7 +46,7 @@
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "modern"
+      "default"
     ],
     "postProcessors": ["ExtractSearchIndex"],
     "keepFileLink": false,
